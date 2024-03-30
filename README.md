@@ -1,6 +1,7 @@
 # Milestone 4: Continuous Integration and Continuous Delivery (Jenkins) 
 - Martin Ceron - 100780488
 - Software Quality
+- Script
 
 ## Objective   
 1. Git Familiar with Jenkins.
